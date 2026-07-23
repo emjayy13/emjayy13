@@ -1,8 +1,8 @@
 # Hi there, I'm Mitali Jain
 
-Computer Science undergraduate at Bharati Vidyapeeth's College of Engineering (GGSIPU)  
-Aspiring Software Engineer passionate about building scalable software and solving real-world problems.  
-Currently exploring Full-Stack Development, System Design, Cloud Technologies, and AI-powered applications.
+-Computer Science undergraduate at Bharati Vidyapeeth's College of Engineering (GGSIPU)  
+-Aspiring Software Engineer passionate about building scalable software and solving real-world problems.  
+-Currently exploring Full-Stack Development, System Design, Cloud Technologies, and AI-powered applications.
 
 ---
 
