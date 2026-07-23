@@ -1,70 +1,92 @@
-# Hi, I'm Mitali Jain 
+# Hi there, I'm Mitali Jain 👋
 
-I'm a B.Tech Computer Science Engineering student at **Bharati Vidyapeeth's College of Engineering, GGSIPU**, with a strong interest in **Quantum Computing**, **Software Engineering**, and **Artificial Intelligence**.
-
-I enjoy building well-structured software, exploring quantum algorithms with Qiskit, and contributing to projects that combine solid engineering practices with emerging technologies.
+🎓 Computer Science undergraduate at Bharati Vidyapeeth's College of Engineering (GGSIPU)  
+💻 Aspiring Software Engineer passionate about building scalable software and solving real-world problems.  
+🌱 Currently exploring Full-Stack Development, System Design, Cloud Technologies, and AI-powered applications.
 
 ---
 
-## 🌱 Currently Learning
+## 👩‍💻 About Me
 
-* Quantum Algorithms
-* Qiskit Development
-* Quantum Optimization
-* Open Source Development
-* Compiler Fundamentals
+- 💡 Interested in Software Engineering, Backend Development, Distributed Systems, and Cloud Computing.
+- 🚀 Enjoy building end-to-end applications using modern web technologies.
+- 🧩 Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, DBMS, and Computer Networks.
+- 📚 Always learning and improving through projects, coding practice, and open-source contributions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
+- Python
+- C++
+- C
+- JavaScript
+- SQL
+- Bash
 
-* Python
-* C++
-* SQL
+### Frameworks & Libraries
+- React.js
+- FastAPI
+- Flask
+- Pandas
+- scikit-learn
 
-**Quantum Computing**
+### Databases
+- MongoDB
+- SQL
 
-* Qiskit
-* Qiskit Aer
-
-**Tools**
-
-* Git & GitHub
-* VS Code
-* MATLAB
-* Jupyter Notebook
-
----
-
-## 📌 Featured Project
-
-### Quantum Algorithm Benchmarking Framework
-
-A modular benchmarking framework built with Qiskit for implementing, executing, and comparing quantum algorithms.
-
-**Highlights**
-
-* Modular architecture using object-oriented design
-* Deutsch, Bernstein–Vazirani, Grover, and QFT implementations
-* Automated benchmarking pipeline
-* Circuit metrics collection
-* CSV export
-* Visualization of benchmark results
+### Tools
+- Git
+- GitHub
+- Docker
+- Linux
+- Postman
+- VS Code
 
 ---
 
-## 🎯 Current Goals
+## 🚀 Featured Projects
 
-* Build impactful quantum computing projects
-* Contribute to the Qiskit open-source ecosystem
-* Learn quantum optimization and variational algorithms
-* Explore compiler optimizations for quantum circuits
+### 🎙️ Voice Command-Based E-Commerce Platform
+A full-stack e-commerce application that enables users to search products, manage carts, and navigate using natural language voice commands.
+
+**Tech:** React.js • FastAPI • MongoDB • OpenAI API • Web Speech API
 
 ---
 
-## 📫 Connect with Me
+### 📊 Customer Return Risk Analyzer
+An analytics platform that detects potentially fraudulent customer return behavior using machine learning and interactive dashboards.
 
-* GitHub: https://github.com/emjayy13
-* LinkedIn: https://www.linkedin.com/in/mitali-jain-220295341/
+**Tech:** Python • FastAPI • React.js • scikit-learn • Pandas • MongoDB • Chart.js
+
+---
+
+## 📈 Coding Profiles
+
+- 💻 LeetCode – 300+ DSA problems solved
+- ⚡ Codeforces
+- 🧠 CodeChef
+
+I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Engineering
+- Distributed Systems
+- Cloud Computing
+- System Design
+- Software Architecture
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/mitali-jain-220295341
+- Email: mitalij901@email.com
+
+---
+
+> *"Code. Learn. Build. Repeat."*
