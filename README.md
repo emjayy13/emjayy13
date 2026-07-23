@@ -1,17 +1,17 @@
-# Hi there, I'm Mitali Jain 👋
+# Hi there, I'm Mitali Jain
 
-🎓 Computer Science undergraduate at Bharati Vidyapeeth's College of Engineering (GGSIPU)  
-💻 Aspiring Software Engineer passionate about building scalable software and solving real-world problems.  
-🌱 Currently exploring Full-Stack Development, System Design, Cloud Technologies, and AI-powered applications.
+Computer Science undergraduate at Bharati Vidyapeeth's College of Engineering (GGSIPU)  
+Aspiring Software Engineer passionate about building scalable software and solving real-world problems.  
+Currently exploring Full-Stack Development, System Design, Cloud Technologies, and AI-powered applications.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💡 Interested in Software Engineering, Backend Development, Distributed Systems, and Cloud Computing.
-- 🚀 Enjoy building end-to-end applications using modern web technologies.
-- 🧩 Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, DBMS, and Computer Networks.
-- 📚 Always learning and improving through projects, coding practice, and open-source contributions.
+-  Interested in Software Engineering, Backend Development, Distributed Systems, and Cloud Computing.
+-  Enjoy building end-to-end applications using modern web technologies.
+-  Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, DBMS, and Computer Networks.
+-  Always learning and improving through projects, coding practice, and open-source contributions.
 
 ---
 
@@ -48,14 +48,14 @@
 
 ## 🚀 Featured Projects
 
-### 🎙️ Voice Command-Based E-Commerce Platform
+###  Voice Command-Based E-Commerce Platform
 A full-stack e-commerce application that enables users to search products, manage carts, and navigate using natural language voice commands.
 
 **Tech:** React.js • FastAPI • MongoDB • OpenAI API • Web Speech API
 
 ---
 
-### 📊 Customer Return Risk Analyzer
+###  Customer Return Risk Analyzer
 An analytics platform that detects potentially fraudulent customer return behavior using machine learning and interactive dashboards.
 
 **Tech:** Python • FastAPI • React.js • scikit-learn • Pandas • MongoDB • Chart.js
@@ -64,9 +64,8 @@ An analytics platform that detects potentially fraudulent customer return behavi
 
 ## 📈 Coding Profiles
 
-- 💻 LeetCode – 300+ DSA problems solved
-- ⚡ Codeforces
-- 🧠 CodeChef
+-  LeetCode – 300+ DSA problems solved
+-  Codeforces - 100+ problems solved
 
 I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
 
