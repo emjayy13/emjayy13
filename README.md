@@ -84,7 +84,7 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/mitali-jain-220295341
-- Email: mitalij901@email.com
+- Email: mitalij901@gmail.com
 
 ---
 
