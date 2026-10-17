@@ -10,9 +10,9 @@ I believe good technical work goes beyond making something run — it should be 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ⚛️ Quantum Computing
+### Quantum Computing
 
 **[QAOA-Tuner](https://github.com/emjayy13/QAOA-Tuner)**
 
@@ -31,7 +31,7 @@ A Python framework for implementing quantum algorithms and collecting circuit-le
 - Measures circuit depth, gate counts, and qubit requirements.
 - Exports results for analysis and visualization.
 
-### 💻 Software Development & AI/ML
+### Software Development & AI/ML
 
 I also build software and machine learning projects involving data processing, model evaluation, APIs, and user-facing applications.
 
@@ -41,7 +41,7 @@ My interests include writing maintainable Python code, designing useful develope
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -65,7 +65,7 @@ SciPy · Matplotlib · NetworkX · Data Analysis
 
 ---
 
-## 🧠 What I'm Interested In
+## What I'm Interested In
 
 - Quantum software development and developer tooling
 - Quantum algorithms, benchmarking, and noise analysis
