@@ -1,91 +1,89 @@
-# Hi there, I'm Mitali Jain
+# Hey, I'm Mitali Jain 👋
 
--Computer Science undergraduate at Bharati Vidyapeeth's College of Engineering (GGSIPU)  
--Aspiring Software Engineer passionate about building scalable software and solving real-world problems.  
--Currently exploring Full-Stack Development, System Design, Cloud Technologies, and AI-powered applications.
+### Software Developer | Quantum Computing | Computer Science Undergraduate
 
----
+I'm a Computer Science undergraduate interested in building reliable software, quantum algorithms, and developing tools that make complex computational workflows easier to understand, evaluate, and reproduce.
 
-## 👩‍💻 About Me
+My primary focus is **quantum computing and software development**, with hands-on work in Qiskit, quantum algorithm benchmarking, QAOA, and noise-aware simulation. I also enjoy working across software engineering, AI/ML, and data-driven applications.
 
--  Interested in Software Engineering, Backend Development, Distributed Systems, and Cloud Computing.
--  Enjoy building end-to-end applications using modern web technologies.
--  Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, DBMS, and Computer Networks.
--  Always learning and improving through projects, coding practice, and open-source contributions.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Python
-- C++
-- C
-- JavaScript
-- SQL
-- Bash
-
-### Frameworks & Libraries
-- React.js
-- FastAPI
-- Flask
-- Pandas
-- scikit-learn
-
-### Databases
-- MongoDB
-- SQL
-
-### Tools
-- Git
-- GitHub
-- Docker
-- Linux
-- Postman
-- VS Code
+I believe good technical work goes beyond making something run — it should be **well-structured, testable, documented, and reproducible.**
 
 ---
 
 ## 🚀 Featured Projects
 
-###  Voice Command-Based E-Commerce Platform
-A full-stack e-commerce application that enables users to search products, manage carts, and navigate using natural language voice commands.
+### ⚛️ Quantum Computing
 
-**Tech:** React.js • FastAPI • MongoDB • OpenAI API • Web Speech API
+**[QAOA-Tuner](https://github.com/emjayy13/QAOA-Tuner)**
+
+A Qiskit-based experimental framework for evaluating QAOA configurations for graph coloring under simulated noise.
+
+- Compares solution quality and performance across experimental configurations.
+- Explores readout error mitigation and zero-noise extrapolation (ZNE).
+- Includes experiment outputs, visualizations, and an interactive dashboard.
+- Uses quantum circuit simulation rather than real quantum hardware.
+
+**[Quantum Algorithm Benchmarking](https://github.com/emjayy13/quantum-algorithm-benchmark)**
+
+A Python framework for implementing quantum algorithms and collecting circuit-level metrics with Qiskit.
+
+- Implements Deutsch, Bernstein–Vazirani, Grover's search, and Quantum Fourier Transform (QFT).
+- Measures circuit depth, gate counts, and qubit requirements.
+- Exports results for analysis and visualization.
+
+### 💻 Software Development & AI/ML
+
+I also build software and machine learning projects involving data processing, model evaluation, APIs, and user-facing applications.
+
+My interests include writing maintainable Python code, designing useful developer tools, building reproducible experiments, and turning technical ideas into working applications.
+
+[Explore all my repositories →](https://github.com/emjayy13?tab=repositories)
 
 ---
 
-###  Customer Return Risk Analyzer
-An analytics platform that detects potentially fraudulent customer return behavior using machine learning and interactive dashboards.
+## 🛠️ Tech Stack
 
-**Tech:** Python • FastAPI • React.js • scikit-learn • Pandas • MongoDB • Chart.js
+**Languages**
+
+Python · C++ · C · Java · SQL · JavaScript
+
+**Quantum Computing**
+
+Qiskit · Qiskit Aer · Quantum Circuits · Quantum Algorithms · QAOA
+
+**AI / Machine Learning**
+
+Scikit-learn · Pandas · NumPy · NLP · Model Evaluation
+
+**Software Development**
+
+Git · GitHub · REST APIs · FastAPI · Flask · React · Pytest
+
+**Scientific Computing & Visualization**
+
+SciPy · Matplotlib · NetworkX · Data Analysis
 
 ---
 
-## 📈 Coding Profiles
+## 🧠 What I'm Interested In
 
--  LeetCode – 300+ DSA problems solved
--  Codeforces - 100+ problems solved
-
-I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
+- Quantum software development and developer tooling
+- Quantum algorithms, benchmarking, and noise analysis
+- Software architecture, testing, and reproducibility
+- AI/ML applications and data-driven systems
+- Open-source collaboration and developer communities
 
 ---
 
 ## 🌱 Currently Learning
 
-- Backend Engineering
-- Distributed Systems
-- Cloud Computing
-- System Design
-- Software Architecture
+Strengthening my foundations in quantum computing, Python implementation, software engineering, and experimental evaluation through hands-on projects and continuous learning.
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/mitali-jain-220295341
-- Email: mitalij901@gmail.com
+- **LinkedIn:** [Mitali Jain](https://www.linkedin.com/in/mitali-jain-220295341/)
+- **GitHub:** [@emjayy13](https://github.com/emjayy13)
 
----
-
-> *"Code. Learn. Build. Repeat."*
+Always happy to connect with developers, quantum computing enthusiasts, and open-source contributors!
